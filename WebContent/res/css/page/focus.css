@@ -1,0 +1,41 @@
+#div_focus_params{
+	
+	margin: 0;
+	padding: 10px;
+		
+	overflow: hidden;
+}
+
+#div_focus_operate{
+	
+	margin: 0;
+	padding: 10px;
+		
+	overflow: hidden;
+}
+
+#div_focus_result{
+	
+	margin: 0;
+	padding: 10px;
+		
+	overflow: hidden;
+}
+
+#rtxt_focus_result{
+	margin: 0;
+	padding: 0;
+	
+	width: 100%;
+	height: 320px;
+	
+	color: #0f0;
+	background-color: #424242;
+	
+	font-family: Microsoft YaHei, Arial, "SimSun", sans-serif;	
+	font-size: 16px;
+	font-size: 14px;
+	resize:none;
+	
+	border-width: 1px;
+}

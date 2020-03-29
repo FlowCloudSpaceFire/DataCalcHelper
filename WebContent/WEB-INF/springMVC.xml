@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans 
+	xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xmlns:mvc="http://www.springframework.org/schema/mvc"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context 
+    http://www.springframework.org/schema/context/spring-context.xsd
+    http://www.springframework.org/schema/mvc 
+    http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+ 
+ 	<!-- 扫描以下包及其子包内容 --> 
+ 	<mvc:annotation-driven></mvc:annotation-driven>
+ 
+	<!-- 配置自动扫描的包 -->
+	<context:component-scan base-package="ncl.calc"></context:component-scan>
+ 
+ 	<mvc:default-servlet-handler></mvc:default-servlet-handler>
+ 
+	<!-- 配置视图解析器 如何把handler 方法返回值解析为实际的物理视图 -->
+	<!-- prefix和suffix：查找视图页面的前缀和后缀（前缀[逻辑视图名]后缀）， --> 
+    <!-- 比如传进来的逻辑视图名为result，则该该jsp视图页面应该存放在“/WEB-INF/result.jsp”  -->  
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name = "prefix" value="/WEB-INF/view/"></property>
+		<property name = "suffix" value = ".jsp"></property>
+	</bean>
+</beans>

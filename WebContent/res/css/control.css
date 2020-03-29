@@ -1,0 +1,102 @@
+
+/* button */
+
+.x-btn1{
+	position: relative;
+	
+	margin: 5px;
+
+	width: 120px;
+	height: 32px;
+	
+	color:#000;
+	background-color: #fff;
+	background-repeat: repeat;
+	
+	text-align: center;
+	text-decoration: none;
+	
+	vertical-align: middle;
+	overflow: hidden;
+	
+	font-size: 16px;
+	
+	border: 0px;
+	border-radius: 3px;
+	
+	cursor: pointer;
+}
+
+.x-btn1:hover{
+	background-color: #a9a9a9;
+}
+
+
+/* text input */
+.x-text1{
+	position: relative;
+	
+	margin: 0;
+	padding: 0;
+	
+	width: 160px;
+	height: 24px;
+	
+	color:#000;
+	background-color: #fff;
+	background-repeat: repeat;
+	
+	text-align: left;
+	text-decoration: none;
+	
+	vertical-align: middle;
+	overflow: hidden;
+	
+	font-size: 14px;
+	
+	border: 0px;
+	border-radius: 3px;
+}
+
+/* combobox */
+.x-cmb1{
+	position: relative;
+	
+	margin: 0;
+	padding: 0;
+	
+	width: 160px;
+	height: 24px;
+	
+	color:#000;
+	background-color: #fff;
+	background-repeat: repeat;
+	
+	text-align: center;
+	text-decoration: none;
+	
+	vertical-align: middle;
+	overflow: hidden;
+	
+	font-size: 14px;
+	
+	border: 0px;
+	border-radius: 3px;
+}
+
+/* checkbox */
+
+
+/* slider */
+
+
+/* progress bar */
+
+
+/* datetime picker */
+
+
+/* listview */
+
+
+/* richtext */

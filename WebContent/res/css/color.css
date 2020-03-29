@@ -1,0 +1,545 @@
+/****************************/
+.x-c-white{
+	color: #fff
+}
+
+.x-c-black{
+	color: #000
+}
+
+.x-c-gray{
+	color: #888
+}
+
+.x-c-red{
+	color: #f00
+}
+
+.x-c-green{
+	color: #0f0
+}
+
+.x-c-blue{
+	color: #00f
+}
+
+.x-c-yellow{
+	color: #ff0
+}
+
+/****************************/
+.x-c-aliceblue{
+	color: #f0f8ff
+}
+
+.x-c-antiquewhite{
+	color: #faebd7
+}
+
+.x-c-aqua{
+	color: #00ffff
+}
+
+.x-c-aquamarine{
+	color: #7fffd4
+}
+
+.x-c-azure{
+	color: #f0ffff
+}
+
+.x-c-beige{
+	color: #f5f5dc
+}
+
+.x-c-bisque{
+	color: #ffe4c4
+}
+
+.x-c-brown{
+	color: #a52a2a
+}
+
+.x-c-burlywood{
+	color: #deb887
+}
+
+.x-c-cadetblue{
+	color: #5f9ea0
+}
+
+.x-c-chocolate{
+	color: #d2691e
+}
+
+.x-c-coral{
+	color: #ff7f50
+}
+
+.x-c-cornflowerblue{
+	color: #6495ed
+}
+
+.x-c-cornsilk{
+	color: #fff8dc
+}
+
+.x-c-crimson{
+	color: #dc143c
+}
+
+.x-c-cyan{
+	color: #00ffff
+}
+
+.x-c-darkblue{
+	color: #00008b
+}
+
+.x-c-darkcyan{
+	color: #008b8b
+}
+
+.x-c-darkgoldenrod{
+	color: #b8860b
+}
+
+.x-c-darkgray{
+	color: #a9a9a9
+}
+
+.x-c-darkdarkgray{
+	color: #424242
+}
+
+.x-c-darkgreen{
+	color: #006400
+}
+
+.x-c-darkkhaki{
+	color: #bdb76b
+}
+
+.x-c-darkmagenta{
+	color: #8b008b
+}
+
+.x-c-darkolivegreen{
+	color: #556b2f
+}
+
+.x-c-darkorange{
+	color: #ff8c00
+}
+
+.x-c-darkorchid{
+	color: #9932cc
+}
+
+.x-c-darkred{
+	color: #8b0000
+}
+
+.x-c-darksalmon{
+	color: #e9967a
+}
+
+.x-c-darkseagreen{
+	color: #8fbc8f	
+}
+
+.x-c-darkslateblue{
+	color: #483d8b
+}
+
+.x-c-darkslategray{
+	color: #2f4f4f
+}
+
+.x-c-darkturquoise{
+	color: #00ced1
+}
+
+.x-c-darkviolet{
+	color: #9400d3
+}
+
+.x-c-deepping{
+	color: #ff1493
+}
+
+.x-c-deepskyblue{
+	color: #00bfff
+}
+
+.x-c-dimgray{
+	color: #696969
+}
+
+.x-c-firebrick{
+	color: #b22222
+}
+
+.x-c-floralwhite{
+	color: #fffaf0
+}
+
+.x-c-forestgreen{
+	color: #228b22
+}
+
+.x-c-fuchsia{
+	color: #ff00ff
+}
+
+.x-c-gainsboro{
+	color: #dcdcdc
+}
+
+.x-c-ghostwhite{
+	color: #f8f8ff
+}
+
+.x-c-gold{
+	color: #ffd700
+}
+
+.x-c-goldenrod{
+	color: #daa520
+}
+
+.x-c-greenyellow{
+	color: #adff2f
+}
+
+.x-c-honeydew{
+	color: #f0fff0
+}
+
+.x-c-hotpink{
+	color: #ff69b4
+}
+
+.x-c-indianred{
+	color: #cd5c5c
+}
+
+.x-c-indigo{
+	color: #4b0082
+}
+
+.x-c-ivory{
+	color: #fffff0
+}
+
+.x-c-khaki{
+	color: #f0e68c
+}
+
+.x-c-lavender{
+	color: #e6e6fa
+}
+
+.x-c-lavenderblush{
+	color: #ffff0f5
+}
+
+.x-c-lawngreen{
+	color: #7cfc00
+}
+
+.x-c-lemonchiffon{
+	color: #fffacd
+}
+
+.x-c-lightblue{
+	color: #add8e6
+}
+
+.x-c-lightcoral{
+	color: #f08080
+}
+
+.x-c-lightcyan{
+	color: #e0ffff
+}
+
+.x-c-lightgray{
+	color: #d3d3d3
+}
+
+.x-c-lightgreen{
+	color: #90ee90
+}
+
+.x-c-lightpink{
+	color: #ffb6c1
+}
+
+.x-c-lightsalmon{
+	color: #ffa07a
+}
+
+.x-c-lightseagreen{
+	color: #20b2aa
+}
+
+.x-c-lightskyblue{
+	color: #87cefa
+}
+
+.x-c-lightslategray{
+	color: #778899
+}
+
+.x-c-lightsteelblue{
+	color: #b0c4de
+}
+
+.x-c-lightyellow{
+	color: #ffffe0
+}
+
+.x-c-lime{
+	color: #00ff00
+}
+
+.x-c-limegreen{
+	color: #32cd32
+}
+
+.x-c-linen{
+	color: #faf0e6
+}
+
+.x-c-magenta{
+	color: #ff00ff
+}
+
+.x-c-maroon{
+	color: #800000
+}
+
+.x-c-mediumaqualmarine{
+	color: #66cdaa
+}
+
+.x-c-mediumblue{
+	color: #0000cd
+}
+
+.x-c-mediumorchid{
+	color: #ba55d3
+}
+
+.x-c-mediumpurple{
+	color: #9370db
+}
+
+.x-c-mediumseagreen{
+	color: #3cb371
+}
+
+.x-c-mediumslateblue{
+	color: #7b68ee
+}
+
+.x-c-mediumspringgreen{
+	color: #00fa9a
+}
+
+.x-c-mediumturquoise{
+	color: #48d1cc
+}
+
+.x-c-mediumvioletred{
+	color: #c71585
+}
+
+.x-c-midnightblue{
+	color: #191970
+}
+
+.x-c-mintcream{
+	color: #f5fffa
+}
+
+.x-c-mistyrose{
+	color: #ffe4e1
+}
+
+.x-c-moccasin{
+	color: #ffe4b5
+}
+
+.x-c-navajowhite{
+	color: #ffdead
+}
+
+.x-c-navy{
+	color: #000080
+}
+
+.x-c-oldlace{
+	color: #fdf5f6
+}
+
+.x-c-olive{
+	color: #808000
+}
+
+.x-c-olivedrab{
+	color: #6b8e23
+}
+
+.x-c-orange{
+	color: #ffa500
+}
+
+.x-c-orangered{
+	color: #ff4500
+}
+
+.x-c-orchid{
+	color: #da70d6
+}
+
+.x-c-palegoldenrod{
+	color: #eee8aa
+}
+
+.x-c-palegreen{
+	color: #98fb98
+}
+
+.x-c-paleturquoise{
+	color: #afeeee
+}
+
+.x-c-palevioletred{
+	color: #db7093
+}
+
+.x-c-papayawhip{
+	color: #ffefd5
+}
+
+.x-c-peachpuff{
+	color: #ffdab9
+}
+
+.x-c-peru{
+	color: #cd853f
+}
+
+.x-c-pink{
+	color: #ffc0cb
+}
+
+.x-c-plum{
+	color: #dda0dd
+}
+
+.x-c-powderblue{
+	color: #b0e0e6
+}
+
+.x-c-purple{
+	color: #800080
+}
+
+.x-c-rosybrown{
+	color: #bc8f8f
+}
+
+.x-c-royalblue{
+	color: #4169e1
+}
+
+.x-c-saddlebrown{
+	color: #8b4513
+}
+
+.x-c-salmon{
+	color: #fa8072
+}
+
+.x-c-sandybrown{
+	color: #f4a460
+}
+
+.x-c-seagreen{
+	color: #2e8b57
+}
+
+.x-c-seashell{
+	color: #fff5ee
+}
+
+.x-c-sienna{
+	color: #a0522d
+}
+
+.x-c-silver{
+	color: #c0c0c0
+}
+
+.x-c-skyblue{
+	color: #87ceeb
+}
+
+.x-c-slateblue{
+	color: #6a5acd
+}
+
+.x-c-slategray{
+	color: #708090
+}
+
+.x-c-snow{
+	color: #fffafa
+}
+
+.x-c-springgreen{
+	color: #00ff7f
+}
+
+.x-c-steelblue{
+	color: #4682b4
+}
+
+.x-c-tan{
+	color: #d2b482
+}
+
+.x-c-teal{
+	color: #008080
+}
+
+.x-c-thistle{
+	color: #d8bfd8
+}
+
+.x-c-tomato{
+	color: #ff6347
+}
+
+.x-c-turquoise{
+	color: #40e0d0
+}
+
+.x-c-violet{
+	color: #ee82ee
+}
+
+.x-c-wheat{
+	color: #f5deb3
+}
+
+.x-c-whitesmoke{
+	color: #f5f5f5
+}
+
+.x-c-yellowgreen{
+	color: #9acd32
+}
